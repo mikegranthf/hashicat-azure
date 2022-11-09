@@ -13,7 +13,7 @@ cat << EOM > /var/www/html/index.html
   <center><h2>Meow World!</h2></center>
   Welcome to ${PREFIX}'s app. Replace this text with your own. 
   
-  Beep boop I am a bot
+  Beep boop I am a bot again
   <!-- END -->
   
   </div>
